@@ -29,5 +29,5 @@
  * @license    http://opensource.org/licenses/lgpl-3.0.html
  */
 
- $GLOBALS['TL_LANG']['tl_member']['mein_kennwort']         = array('Mein Kennwort', 'Bitte geben Sie das Kennwort ein.');
+ $GLOBALS['TL_LANG']['tl_member']['mein_kennwort'] = array('Mein Kennwort', 'Bitte geben Sie das Kennwort ein.');
 ?>
