@@ -31,7 +31,7 @@ class HelloWorldModule extends \Module
         return parent::generate();
     }
 
-    public function Kennwort($strRegexp, $varValue, Widget $objWidget) {
+    public function KennwortCheck($strRegexp, $varValue, Widget $objWidget) {
 
         $kennwort = $GLOBALS['TL_CONFIG']['captcha_kennwort'];
 
