@@ -36,6 +36,6 @@ class HelloWorldModule extends \Module
      */
     protected function compile()
     {
-        $this->Template->message = 'Hallo Rallo';
+        $this->Template->message = $GLOBALS['TL_CONFIG']['captcha_kennwort'];
     }
 }
