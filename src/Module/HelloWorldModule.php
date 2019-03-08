@@ -36,6 +36,6 @@ class HelloWorldModule extends \Module
      */
     protected function compile()
     {
-        $this->Template->message = 'Hello World';
+        $this->Template->message = 'Hallo Rallo';
     }
 }
